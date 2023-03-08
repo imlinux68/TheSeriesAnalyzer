@@ -1,2 +1,19 @@
-# TheSeriesAnalyzer
-The Series Analyzer Project of Wednesday 8 March on 2023
+### START
+-----------------
+
+The Series Analyzer Project
+=============
+
+A simple program in Bash Scripting that can displa ome statistical properties of a positive numbers series.
+-------------
+
+
+
+
+
+
+
+
+
+-----------------------
+###End
